@@ -44,14 +44,14 @@ Connect VSWR to detector mount and note down the dB reading in VSWR meter for bo
 The difference of both dB reading of VSWR meter gives the modulation depth of PINmodulator.
 Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.
 
-## B.Observation: ( Include your own Table relevant to the Experiment) (Include Tabulation Part)
+## B.Observation: 
+<img width="1280" height="1056" alt="image" src="https://github.com/user-attachments/assets/d718cdd2-20c6-4c49-a766-5c713426d479" />
 
-## C.Analysis of Results: (Write your own)
+## C.Analysis of Results: 
+<img width="771" height="1028" alt="image" src="https://github.com/user-attachments/assets/3e7c44f9-e200-47aa-a1f5-2f18892a5bea" />
 
-(Include sample calculations/Display/plot/typical graph)
-
-## D.Conclusions: (Write your Own)
-
+## D.Conclusions:
+The experiment confirmed Gunn diode operation through its negative resistance region and showed that proper biasing enables stable microwave frequency and power generation.
 ## Precautions:
 
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
