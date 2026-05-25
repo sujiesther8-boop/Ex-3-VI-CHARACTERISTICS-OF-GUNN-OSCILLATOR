@@ -59,3 +59,4 @@ The experiment confirmed Gunn diode operation through its negative resistance re
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+Thus, the V-I characteristics of Gunn diode is studied and verified experimentally.
